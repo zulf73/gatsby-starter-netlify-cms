@@ -20,12 +20,10 @@ intro:
         We are still in the development mode.  We are developing methods for
         Personalization of all goods and services by Personality Types as well
         as Molecular Dynamics based on S4 Physics
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/personalization.png
+      text: >-
+        In this particular site we are interested in testing Gatsby production
+        quality websites with configurability by 1024 personality types.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
