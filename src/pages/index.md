@@ -5,7 +5,7 @@ image: /img/floating-crystal.jpg
 heading: Heading
 subheading: Research on UI for Personality Type Configurations
 mainpitch:
-  title: Why Kaldi
+  title: Why Thyself
   description: >-
     Thyself Inc. is developing applications of our scientific breakthroughs in
     fundamental physics as well as Personality Psychology.
@@ -15,13 +15,11 @@ description: >-
   understanding of Nature and the Human Being.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/uniqueness.jpg
+      text: >-
+        We are still in the development mode.  We are developing methods for
+        Personalization of all goods and services by Personality Types as well
+        as Molecular Dynamics based on S4 Physics
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
