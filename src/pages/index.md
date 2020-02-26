@@ -40,7 +40,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What We Offer
   description: >-
     We are still in the development mode.  We are developing methods for
     Personalization of all goods and services by Personality Types as well as
