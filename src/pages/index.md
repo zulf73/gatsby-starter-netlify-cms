@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Thyself Inc. Personality Psychology Staging
+image: /img/floating-crystal.jpg
+heading: Heading
+subheading: Research on UI for Personality Type Configurations
 mainpitch:
   title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  description: >-
+    Thyself Inc. is developing applications of our scientific breakthroughs in
+    fundamental physics as well as Personality Psychology.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Thyself Inc. is based on moving our people the human race towards a better
+  future for all people by transformative applications of our great new
+  understanding of Nature and the Human Being.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +43,10 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    We are still in the development mode.  We are developing methods for
+    Personalization of all goods and services by Personality Types as well as
+    Molecular Dynamics based on S4 Physics
 main:
   heading: Great coffee with no compromises
   description: >
@@ -60,7 +56,7 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/moebius-hawk.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
@@ -68,3 +64,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
