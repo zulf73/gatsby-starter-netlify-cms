@@ -20,7 +20,7 @@ intro:
         We are still in the development mode.  We are developing methods for
         Personalization of all goods and services by Personality Types as well
         as Molecular Dynamics based on S4 Physics
-    - image: /img/personalization.png
+    - image: /img/personalization.jpg
       text: >-
         In this particular site we are interested in testing Gatsby production
         quality websites with configurability by 1024 personality types.
