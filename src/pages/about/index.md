@@ -1,19 +1,26 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Purpose of Thyself Inc.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Thyself Inc. was founded by Zulfikar Moinuddin Ahmed after a decade of work on S4 Physics,
+a new fundamental physics theory that overthrows a century of incoherent fundamental physics. It is a macroscopic physics that replaces two fundamental forces that have been theorized in the past three centuries, electromagnetism and gravity into a single force
+called S4 Electromagnetism. It is also based on scientific breakthroughs in personality psychology including discovery of more than 1024 types of personality types extending Briggs-Myers types in data.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Application areas are Personalization of Goods and Services and Molecular Dynamics
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+The current order of software technology while making tremendous advances in engineering
+of systems and artificial intelligence cannot provide true personalization without
+a deep hierarchy of personality types that we can pioneer based on our empiricial results
+dated October 2019.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### S4 Physics-based Molecular Dynamics
+
+Molecular Dynamics today based on Newton approximations are established with such simulation software such as CHARMM and GROMACS. This approach leads quickly to computational loads that require supercomputers. S4 Physics promises to reduce the
+computational burden so that 10 microsecond simulations can be done with Spark on EC2.
+
+### About Zulfikar Moinuddin Ahmed
+
+Zulfikar Moinuddin Ahmed graduated magna cum laude Mathematics AB from Princeton University in 1995, and was in the Ph.D. program of Columbia University with position at MIT before 2000. He has worked in the Lehman Brothers Fixed Income Derivative Research team of Andy Morton in 1995, was the Vice President of Quantitative Research at Gresham Investment Management in 2007, has worked at technology startups Ecosystems Inc. of Robert Reich in 1998 and Babel Research in 2007-8. At the moment he is focused on development of
+Thyself Inc.
