@@ -24,14 +24,12 @@ intro:
       text: >-
         In this particular site we are interested in testing Gatsby production
         quality websites with configurability by 1024 personality types.
-    - image: /img/tutorials.png
+    - image: /img/love-for-all.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        We at Thyself Inc. believe that philanthropy is the future of enterprise
+        and by this we mean genuing love and acceptance of all human beings and
+        a commitment to serve humanity which is the purpose of personalization.
+    - image: /img/humanity.jpg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
